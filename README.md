@@ -1,7 +1,7 @@
 Hi 👋 My name is Vimlesh Paswan
 ===============================
 
-Web Developer
+Java Web Developer
 -------------
 
 * 🌍  I'm based in India
