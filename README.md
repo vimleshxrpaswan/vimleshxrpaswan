@@ -6,7 +6,6 @@ Java Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [paswanvimlesh481@gmail.com](mailto:paswanvimlesh481@gmail.com)
-* 🧠  I'm learning Spring and Spring Boot
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  #XRP enthusiast
 
